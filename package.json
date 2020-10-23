@@ -1,10 +1,11 @@
 {
-  "name": "react",
+  "name": "react-redux-undo",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "A simple Redux middleware that allows you to undo changes in the state.",
   "keywords": [
-    "react",
-    "starter"
+    "undo",
+    "middleware",
+    "redux"
   ],
   "main": "src/index.js",
   "dependencies": {
